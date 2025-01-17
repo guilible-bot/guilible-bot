@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guilible-bot aka Keshav
-- 👀 I’m interested in mainly in Cyber
+- 👀 I’m interested mainly in Cyber
 - 🌱 I’m currently learning Python, Linux, Computer Networking
 - 💞️ I’m looking to collaborate on anything related to cyber(cloud, infosec, etc.)
 - 📫 How to reach me keshu1085@gmail.com
